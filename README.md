@@ -1,4 +1,4 @@
-### Hi there, I'm Calebe Machado - I made this webpage -> [clsax][website] 👋
+### Hi there, I'm Calebe Machado [My Website][website] 👋
 
 - 🔭 I’m currently working on my portfolio [clsax][website]!
 
